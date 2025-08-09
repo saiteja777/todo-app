@@ -94,12 +94,7 @@ nooro-todo-app/
 
 ## 🙋‍♂️ Author
 
-**Pavan Kumar Mistry**
 
-- 📧 mistrypavankumar2304@gmail.com
-- 🌐 [Portfolio](https://pavankumarmistry-portfolio.vercel.app)
-- 🔗 [LinkedIn](https://linkedin.com/in/pavan-kumar-mistry-5067b21b1)
-- 🐙 [GitHub](https://github.com/mistrypavankumar)
 
 ## 📄 License
 
