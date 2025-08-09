@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-primary: #0d0d0d;
+  --color-light-gray: #333333;
+  --color-secondary: #4ea8de;
+  --color-button-bg: #1e6f9f;
+  --color-purple: #5e60ce;
+  --color-background: #1a1a1a;
+  --color-foreground: #f2f2f2;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+  &::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, and Opera */
+  }
+}
